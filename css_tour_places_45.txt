@@ -257,7 +257,7 @@ html {
 
 .place-img {
     width: 100%;
-    display: block; /* do mặc định có tính chất inline */
+    display: block; /* do mặc định img có tính chất inline, làm kẽ hở giữa place-img với place-body */
 }
 
 .place-img:hover {
