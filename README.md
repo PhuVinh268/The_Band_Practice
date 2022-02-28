@@ -1,4 +1,4 @@
-                ****************************************************
+            ****************************************************
 		*Những thành phần thường gặp trên giao diện website*
 		****************************************************
 
@@ -38,5 +38,5 @@ Crtl Shift L: để chọn từ giống nhau ---> phải ---> Alt Shift Phả
 
 
 
-#slider
+<b> #slider </b>
 			lấy 50% kích thước:  padding-top: 50%
