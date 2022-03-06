@@ -1,6 +1,6 @@
 // getElementById: chỉ dùng thẻ ID
 var header = document.getElementById('header');
-var mobileMenu = document.getElementById('mb-menu');
+var mobileMenu = document.getElementById('mobile-menu');
 // headerHeight giúp sau này thay đổi [height: 46px] thành giá trị khác
 var headerHeight = header.clientHeight; 
 
